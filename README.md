@@ -9,10 +9,23 @@ I work to Front-End Development with HTML, CSS, and JavaScript.
 
 ### Projects
 - [MarvelHeros](https://marvel-heros.github.io/front-end.vue/#/)
+  - Vue.js
+  - bootstrap
 - [The Sake](https://the-sake.netlify.com/)
+  - Vue.js
+  - bootstrap
 - [Hiragana](https://the-hiragana.github.io/)
-- [MyHomeKoreanBull](https://myhomekoreanbull.surge.sh/)
+  - Vue.js
+  - bootstrap
 - [Tiny Rails Log](https://tinyrailslog.surge.sh/#/)
+  - Vue.js
+  - bootstrap
 - [SukuSuku](http://sukusuku.surge.sh/#/)
+  - Vue.js
+  - bulma
 - [KTube](https://ktube.bookstour.com/#/board)
+  - React
+  - bootstrap
 - [Gone Girl](https://gonegirl.firebaseapp.com/)
+  - Polymer
+  - firebase
